@@ -8,3 +8,5 @@
 3.Linux编译后的可执行文件:a.out
 
 4.测试结果:out.txt
+
+5.本项目博客地址:http://blog.csdn.net/qiujiahao123/article/details/64940620
