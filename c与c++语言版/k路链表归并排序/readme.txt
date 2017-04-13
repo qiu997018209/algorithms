@@ -1,3 +1,15 @@
-1.详细原理分析，请查看博客http://blog.csdn.net/wejoncy/article/details/51303270
+1.语言：c++
+2.详细原理分析，请查看博客http://blog.csdn.net/wejoncy/article/details/51303270
 
-2.输出结果为:
+3.输出结果为:
+1:0
+2:1
+3:2
+4:10
+5:13
+6:33
+7:49
+8:50
+9:79
+10:100
+11:179
