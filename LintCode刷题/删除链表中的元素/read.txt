@@ -1,0 +1,1 @@
+http://www.lintcode.com/zh-cn/problem/remove-linked-list-elements/
