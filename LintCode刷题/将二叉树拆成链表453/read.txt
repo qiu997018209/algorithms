@@ -1,0 +1,1 @@
+http://www.lintcode.com/zh-cn/problem/flatten-binary-tree-to-linked-list/
